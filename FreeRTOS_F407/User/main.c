@@ -44,7 +44,7 @@ int main(void)
     my_mem_init(SRAMIN);                /* 初始化内部SRAM内存池 */
     my_mem_init(SRAMEX);                /* 初始化外部SRAM内存池 */
     my_mem_init(SRAMCCM);               /* 初始化内部CCM内存池 */
-#if 0
+#if 1
     lcd_show_string(30,  50, 200, 16, 16, "STM32", RED);
     lcd_show_string(30,  70, 200, 16, 16, "MALLOC TEST", RED);
     lcd_show_string(30,  90, 200, 16, 16, "ATOM@ALIENTEK", RED);
