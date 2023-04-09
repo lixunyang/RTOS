@@ -1,0 +1,24 @@
+--create ..\..\..\..\..\..\Output\STM32H723ZG_FreeRTOS.lib
+..\..\..\..\..\..\output\startup_stm32h723xx.o
+..\..\..\..\..\..\output\main.o
+..\..\..\..\..\..\output\stm32h7xx_hal_msp.o
+..\..\..\..\..\..\output\stm32h7xx_hal_timebase_tim.o
+..\..\..\..\..\..\output\stm32h7xx_it.o
+..\..\..\..\..\..\output\system_stm32h7xx.o
+..\..\..\..\..\..\output\stm32h7xx_nucleo.o
+..\..\..\..\..\..\output\system_stm32h7xx_1.o
+..\..\..\..\..\..\output\stm32h7xx_hal.o
+..\..\..\..\..\..\output\stm32h7xx_hal_dma.o
+..\..\..\..\..\..\output\stm32h7xx_hal_dma_ex.o
+..\..\..\..\..\..\output\stm32h7xx_hal_exti.o
+..\..\..\..\..\..\output\stm32h7xx_hal_gpio.o
+..\..\..\..\..\..\output\croutine.o
+..\..\..\..\..\..\output\event_groups.o
+..\..\..\..\..\..\output\list.o
+..\..\..\..\..\..\output\queue.o
+..\..\..\..\..\..\output\stream_buffer.o
+..\..\..\..\..\..\output\tasks.o
+..\..\..\..\..\..\output\timers.o
+..\..\..\..\..\..\output\cmsis_os2.o
+..\..\..\..\..\..\output\heap_4.o
+..\..\..\..\..\..\output\port.o
