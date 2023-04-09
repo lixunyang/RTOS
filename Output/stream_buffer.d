@@ -1,0 +1,14 @@
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Middlewares\FreeRTOS\Source\stream_buffer.c
+..\..\..\..\..\..\output\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\..\..\..\..\output\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Middlewares\FreeRTOS\Include\FreeRTOS.h
+..\..\..\..\..\..\output\stream_buffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Application\Inc\FreeRTOSConfig.h
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Middlewares\FreeRTOS\Include\projdefs.h
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Middlewares\FreeRTOS\Include\portable.h
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Middlewares\FreeRTOS\Include\deprecated_definitions.h
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Middlewares\FreeRTOS\Source\portable\RVDS\ARM_CM7\portmacro.h
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Middlewares\FreeRTOS\Include\mpu_wrappers.h
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Middlewares\FreeRTOS\Include\task.h
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Middlewares\FreeRTOS\Include\list.h
+..\..\..\..\..\..\output\stream_buffer.o: ..\..\..\..\..\..\Middlewares\FreeRTOS\Include\stream_buffer.h
