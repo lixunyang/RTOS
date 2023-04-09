@@ -1,0 +1,15 @@
+stm32h723vgt6_cubemx\armlib_lock_glue.o: armlib_lock_glue.c
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: stm32_lock.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Core/Inc/FreeRTOSConfig.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+stm32h723vgt6_cubemx\armlib_lock_glue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
